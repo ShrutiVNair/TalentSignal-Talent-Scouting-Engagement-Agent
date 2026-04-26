@@ -157,7 +157,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 [Your deployed Streamlit URL]
+👉 https://talentsignal.streamlit.app/
 
 ---
 
