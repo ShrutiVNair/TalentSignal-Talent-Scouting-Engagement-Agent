@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "C001",
+    "name": "Ava Thompson",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 8,
+    "location": "Austin, TX",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Docker",
+      "Kubernetes",
+      "Microservices"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Terraform",
+      "CI/CD"
+    ],
+    "summary": "Built resilient backend platforms for B2B SaaS products and modernized monoliths into microservices.",
+    "domain_experience": "SaaS, fintech",
+    "availability": "2 weeks",
+    "compensation_expectation": "$175,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Ava Thompson is a Senior Backend Engineer based in Austin, TX with 8 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Docker, Kubernetes, Microservices. Nice-to-have exposure includes Kafka, Terraform, CI/CD. Experience spans SaaS, fintech. Built resilient backend platforms for B2B SaaS products and modernized monoliths into microservices. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/ava-thompson",
+    "github_url": "https://github.com/avathompson"
+  },
+  {
+    "id": "C002",
+    "name": "Liam Chen",
+    "current_title": "Staff Backend Engineer",
+    "years_experience": 11,
+    "location": "Seattle, WA",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Kubernetes",
+      "System Design"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Observability",
+      "Go"
+    ],
+    "summary": "Led platform teams shipping high-scale APIs, event pipelines, and reliability programs.",
+    "domain_experience": "Cloud infrastructure, SaaS",
+    "availability": "1 month",
+    "compensation_expectation": "$215,000",
+    "engagement_persona": "passive_but_open",
+    "resume_text": "Liam Chen is a Staff Backend Engineer based in Seattle, WA with 11 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Kubernetes, System Design. Nice-to-have exposure includes Terraform, Observability, Go. Experience spans Cloud infrastructure, SaaS. Led platform teams shipping high-scale APIs, event pipelines, and reliability programs. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/liam-chen",
+    "github_url": "https://github.com/liamchen"
+  },
+  {
+    "id": "C003",
+    "name": "Maya Patel",
+    "current_title": "Backend Engineer",
+    "years_experience": 6,
+    "location": "Denver, CO",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "REST APIs"
+    ],
+    "nice_to_have_skills": [
+      "Redis",
+      "Kafka",
+      "Terraform"
+    ],
+    "summary": "Backend engineer focused on API design, data services, and cloud deployment automation.",
+    "domain_experience": "Healthtech, SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$155,000",
+    "engagement_persona": "fast_responder",
+    "resume_text": "Maya Patel is a Backend Engineer based in Denver, CO with 6 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Docker, REST APIs. Nice-to-have exposure includes Redis, Kafka, Terraform. Experience spans Healthtech, SaaS. Backend engineer focused on API design, data services, and cloud deployment automation. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/maya-patel",
+    "github_url": "https://github.com/mayapatel"
+  },
+  {
+    "id": "C004",
+    "name": "Noah Garcia",
+    "current_title": "Senior Software Engineer",
+    "years_experience": 7,
+    "location": "Chicago, IL",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Celery"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Kafka",
+      "Elasticsearch"
+    ],
+    "summary": "Delivered backend services for marketplace and logistics platforms with emphasis on performance.",
+    "domain_experience": "Marketplace, logistics",
+    "availability": "3 weeks",
+    "compensation_expectation": "$168,000",
+    "engagement_persona": "mission_driven",
+    "resume_text": "Noah Garcia is a Senior Software Engineer based in Chicago, IL with 7 years of experience. Core skills include Python, Django, PostgreSQL, AWS, Distributed Systems, Celery. Nice-to-have exposure includes FastAPI, Kafka, Elasticsearch. Experience spans Marketplace, logistics. Delivered backend services for marketplace and logistics platforms with emphasis on performance. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/noah-garcia",
+    "github_url": "https://github.com/noahgarcia"
+  },
+  {
+    "id": "C005",
+    "name": "Sophia Nguyen",
+    "current_title": "Principal Engineer",
+    "years_experience": 14,
+    "location": "San Francisco, CA",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kubernetes",
+      "Kafka",
+      "Leadership"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "GraphQL",
+      "Mentoring"
+    ],
+    "summary": "Principal engineer driving distributed systems modernization and cross-functional platform strategy.",
+    "domain_experience": "Fintech, developer tools",
+    "availability": "2 months",
+    "compensation_expectation": "$260,000",
+    "engagement_persona": "compensation_driven",
+    "resume_text": "Sophia Nguyen is a Principal Engineer based in San Francisco, CA with 14 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kubernetes, Kafka, Leadership. Nice-to-have exposure includes Terraform, GraphQL, Mentoring. Experience spans Fintech, developer tools. Principal engineer driving distributed systems modernization and cross-functional platform strategy. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/sophia-nguyen",
+    "github_url": "https://github.com/sophianguyen"
+  },
+  {
+    "id": "C006",
+    "name": "Ethan Brooks",
+    "current_title": "Mid-Level Backend Engineer",
+    "years_experience": 4,
+    "location": "Phoenix, AZ",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "summary": "Full-stack leaning backend engineer who builds APIs, internal tooling, and automation.",
+    "domain_experience": "SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$130,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Ethan Brooks is a Mid-Level Backend Engineer based in Phoenix, AZ with 4 years of experience. Core skills include Python, FastAPI, PostgreSQL, Docker, AWS. Nice-to-have exposure includes Kubernetes, Distributed Systems, CI/CD. Experience spans SaaS. Full-stack leaning backend engineer who builds APIs, internal tooling, and automation. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/ethan-brooks",
+    "github_url": "https://github.com/ethanbrooks"
+  },
+  {
+    "id": "C007",
+    "name": "Olivia Reed",
+    "current_title": "Backend Engineer",
+    "years_experience": 5,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Redis"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Terraform",
+      "Data Modeling"
+    ],
+    "summary": "Engineer with strong API, data access, and cloud deployment experience in distributed teams.",
+    "domain_experience": "SaaS, martech",
+    "availability": "2 weeks",
+    "compensation_expectation": "$148,000",
+    "engagement_persona": "remote_only",
+    "resume_text": "Olivia Reed is a Backend Engineer based in Remote - US with 5 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Redis. Nice-to-have exposure includes Kafka, Terraform, Data Modeling. Experience spans SaaS, martech. Engineer with strong API, data access, and cloud deployment experience in distributed teams. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/olivia-reed",
+    "github_url": "https://github.com/oliviareed"
+  },
+  {
+    "id": "C008",
+    "name": "James Walker",
+    "current_title": "Software Engineer II",
+    "years_experience": 3,
+    "location": "Boston, MA",
+    "work_mode_preference": "onsite",
+    "skills": [
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Docker",
+      "Unit Testing"
+    ],
+    "summary": "Early-career backend engineer with solid API fundamentals and production support experience.",
+    "domain_experience": "Edtech",
+    "availability": "1 month",
+    "compensation_expectation": "$118,000",
+    "engagement_persona": "skeptical",
+    "resume_text": "James Walker is a Software Engineer II based in Boston, MA with 3 years of experience. Core skills include Python, Flask, PostgreSQL, AWS. Nice-to-have exposure includes FastAPI, Docker, Unit Testing. Experience spans Edtech. Early-career backend engineer with solid API fundamentals and production support experience. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/james-walker",
+    "github_url": "https://github.com/jameswalker"
+  },
+  {
+    "id": "C009",
+    "name": "Isabella Flores",
+    "current_title": "Senior Platform Engineer",
+    "years_experience": 9,
+    "location": "New York, NY",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Prometheus",
+      "SRE"
+    ],
+    "summary": "Platform-minded backend engineer improving reliability, deployment pipelines, and observability.",
+    "domain_experience": "Adtech, SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$182,000",
+    "engagement_persona": "passive_but_open",
+    "resume_text": "Isabella Flores is a Senior Platform Engineer based in New York, NY with 9 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Terraform, Kubernetes. Nice-to-have exposure includes Kafka, Prometheus, SRE. Experience spans Adtech, SaaS. Platform-minded backend engineer improving reliability, deployment pipelines, and observability. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/isabella-flores",
+    "github_url": "https://github.com/isabellaflores"
+  },
+  {
+    "id": "C010",
+    "name": "Benjamin Scott",
+    "current_title": "Backend Developer",
+    "years_experience": 2,
+    "location": "Atlanta, GA",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "nice_to_have_skills": [
+      "AWS",
+      "Docker",
+      "CI/CD"
+    ],
+    "summary": "Junior backend developer who contributed to API services and database-backed internal tools.",
+    "domain_experience": "SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$95,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Benjamin Scott is a Backend Developer based in Atlanta, GA with 2 years of experience. Core skills include Python, FastAPI, PostgreSQL. Nice-to-have exposure includes AWS, Docker, CI/CD. Experience spans SaaS. Junior backend developer who contributed to API services and database-backed internal tools. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/benjamin-scott",
+    "github_url": "https://github.com/benjaminscott"
+  },
+  {
+    "id": "C011",
+    "name": "Charlotte Kim",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 8,
+    "location": "Remote - Canada",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Kubernetes",
+      "GraphQL"
+    ],
+    "summary": "Built event-driven services and multi-region backend infrastructure for cloud-native applications.",
+    "domain_experience": "Fintech, SaaS",
+    "availability": "3 weeks",
+    "compensation_expectation": "$170,000",
+    "engagement_persona": "remote_only",
+    "resume_text": "Charlotte Kim is a Senior Backend Engineer based in Remote - Canada with 8 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka. Nice-to-have exposure includes Terraform, Kubernetes, GraphQL. Experience spans Fintech, SaaS. Built event-driven services and multi-region backend infrastructure for cloud-native applications. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/charlotte-kim",
+    "github_url": "https://github.com/charlottekim"
+  },
+  {
+    "id": "C012",
+    "name": "William Turner",
+    "current_title": "Engineering Manager",
+    "years_experience": 12,
+    "location": "Dallas, TX",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "AWS",
+      "Distributed Systems",
+      "Leadership",
+      "Hiring"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "PostgreSQL",
+      "Mentoring"
+    ],
+    "summary": "Hands-on engineering manager with past backend depth and current team leadership responsibilities.",
+    "domain_experience": "Fintech, logistics",
+    "availability": "2 months",
+    "compensation_expectation": "$225,000",
+    "engagement_persona": "not_interested",
+    "resume_text": "William Turner is a Engineering Manager based in Dallas, TX with 12 years of experience. Core skills include Python, AWS, Distributed Systems, Leadership, Hiring. Nice-to-have exposure includes FastAPI, PostgreSQL, Mentoring. Experience spans Fintech, logistics. Hands-on engineering manager with past backend depth and current team leadership responsibilities. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/william-turner",
+    "github_url": "https://github.com/williamturner"
+  },
+  {
+    "id": "C013",
+    "name": "Amelia Johnson",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 7,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Mentoring",
+      "CI/CD"
+    ],
+    "summary": "Strong backend engineer for event-driven systems, scalable APIs, and cloud-native delivery.",
+    "domain_experience": "Fintech, healthtech",
+    "availability": "Immediate",
+    "compensation_expectation": "$172,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Amelia Johnson is a Senior Backend Engineer based in Remote - US with 7 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Docker. Nice-to-have exposure includes Terraform, Mentoring, CI/CD. Experience spans Fintech, healthtech. Strong backend engineer for event-driven systems, scalable APIs, and cloud-native delivery. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/amelia-johnson",
+    "github_url": "https://github.com/ameliajohnson"
+  },
+  {
+    "id": "C014",
+    "name": "Lucas Rivera",
+    "current_title": "Cloud Backend Engineer",
+    "years_experience": 6,
+    "location": "Miami, FL",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "AWS",
+      "Distributed Systems",
+      "Docker",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "PostgreSQL",
+      "Terraform",
+      "Kafka"
+    ],
+    "summary": "Cloud backend specialist focused on service reliability, async processing, and deployment automation.",
+    "domain_experience": "Travel, SaaS",
+    "availability": "1 month",
+    "compensation_expectation": "$160,000",
+    "engagement_persona": "slow_responder",
+    "resume_text": "Lucas Rivera is a Cloud Backend Engineer based in Miami, FL with 6 years of experience. Core skills include Python, FastAPI, AWS, Distributed Systems, Docker, Kubernetes. Nice-to-have exposure includes PostgreSQL, Terraform, Kafka. Experience spans Travel, SaaS. Cloud backend specialist focused on service reliability, async processing, and deployment automation. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/lucas-rivera",
+    "github_url": "https://github.com/lucasrivera"
+  },
+  {
+    "id": "C015",
+    "name": "Harper Lee",
+    "current_title": "Senior Software Engineer",
+    "years_experience": 10,
+    "location": "Los Angeles, CA",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "GraphQL",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Terraform",
+      "Leadership"
+    ],
+    "summary": "Designed scalable backend products and mentored engineers across multiple product squads.",
+    "domain_experience": "Media, SaaS",
+    "availability": "2 weeks",
+    "compensation_expectation": "$190,000",
+    "engagement_persona": "mission_driven",
+    "resume_text": "Harper Lee is a Senior Software Engineer based in Los Angeles, CA with 10 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, GraphQL, Kubernetes. Nice-to-have exposure includes Kafka, Terraform, Leadership. Experience spans Media, SaaS. Designed scalable backend products and mentored engineers across multiple product squads. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/harper-lee",
+    "github_url": "https://github.com/harperlee"
+  },
+  {
+    "id": "C016",
+    "name": "Henry Adams",
+    "current_title": "Backend Engineer",
+    "years_experience": 5,
+    "location": "Salt Lake City, UT",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Redis",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "CI/CD",
+      "Terraform"
+    ],
+    "summary": "Backend engineer for customer-facing APIs and data-intensive services with strong delivery habits.",
+    "domain_experience": "E-commerce, SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$142,000",
+    "engagement_persona": "fast_responder",
+    "resume_text": "Henry Adams is a Backend Engineer based in Salt Lake City, UT with 5 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Redis, Docker. Nice-to-have exposure includes Distributed Systems, CI/CD, Terraform. Experience spans E-commerce, SaaS. Backend engineer for customer-facing APIs and data-intensive services with strong delivery habits. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/henry-adams",
+    "github_url": "https://github.com/henryadams"
+  },
+  {
+    "id": "C017",
+    "name": "Evelyn Cooper",
+    "current_title": "Senior Data Platform Engineer",
+    "years_experience": 9,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Airflow"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Terraform",
+      "Data Pipelines"
+    ],
+    "summary": "Data platform engineer with deep distributed processing experience and strong backend API crossover.",
+    "domain_experience": "Data infrastructure, fintech",
+    "availability": "1 month",
+    "compensation_expectation": "$185,000",
+    "engagement_persona": "skeptical",
+    "resume_text": "Evelyn Cooper is a Senior Data Platform Engineer based in Remote - US with 9 years of experience. Core skills include Python, PostgreSQL, AWS, Distributed Systems, Kafka, Airflow. Nice-to-have exposure includes FastAPI, Terraform, Data Pipelines. Experience spans Data infrastructure, fintech. Data platform engineer with deep distributed processing experience and strong backend API crossover. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/evelyn-cooper",
+    "github_url": "https://github.com/evelyncooper"
+  },
+  {
+    "id": "C018",
+    "name": "Alexander Price",
+    "current_title": "Backend Engineer",
+    "years_experience": 6,
+    "location": "Raleigh, NC",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems"
+    ],
+    "nice_to_have_skills": [
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "summary": "Backend engineer shipping resilient services for B2B software products in agile teams.",
+    "domain_experience": "SaaS, cybersecurity",
+    "availability": "Immediate",
+    "compensation_expectation": "$152,000",
+    "engagement_persona": "passive_but_open",
+    "resume_text": "Alexander Price is a Backend Engineer based in Raleigh, NC with 6 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems. Nice-to-have exposure includes Docker, Kubernetes, Terraform. Experience spans SaaS, cybersecurity. Backend engineer shipping resilient services for B2B software products in agile teams. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/alexander-price",
+    "github_url": "https://github.com/alexanderprice"
+  },
+  {
+    "id": "C019",
+    "name": "Mia Sanders",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 8,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Terraform",
+      "Kafka"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "Mentoring",
+      "Observability"
+    ],
+    "summary": "Backend and infrastructure engineer experienced in service decomposition and platform scale.",
+    "domain_experience": "Fintech, SaaS",
+    "availability": "2 weeks",
+    "compensation_expectation": "$178,000",
+    "engagement_persona": "compensation_driven",
+    "resume_text": "Mia Sanders is a Senior Backend Engineer based in Remote - US with 8 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Terraform, Kafka. Nice-to-have exposure includes Kubernetes, Mentoring, Observability. Experience spans Fintech, SaaS. Backend and infrastructure engineer experienced in service decomposition and platform scale. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/mia-sanders",
+    "github_url": "https://github.com/miasanders"
+  },
+  {
+    "id": "C020",
+    "name": "Daniel Evans",
+    "current_title": "Full Stack Engineer",
+    "years_experience": 5,
+    "location": "Portland, OR",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "React",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "Docker",
+      "GraphQL"
+    ],
+    "summary": "Full stack engineer with meaningful backend ownership on product APIs and integrations.",
+    "domain_experience": "Proptech, SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$145,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Daniel Evans is a Full Stack Engineer based in Portland, OR with 5 years of experience. Core skills include Python, FastAPI, PostgreSQL, React, AWS. Nice-to-have exposure includes Distributed Systems, Docker, GraphQL. Experience spans Proptech, SaaS. Full stack engineer with meaningful backend ownership on product APIs and integrations. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/daniel-evans",
+    "github_url": "https://github.com/danielevans"
+  },
+  {
+    "id": "C021",
+    "name": "Ella Morris",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 7,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Terraform",
+      "SRE"
+    ],
+    "summary": "Senior backend engineer recognized for reliability improvements and scalable service design.",
+    "domain_experience": "Healthtech, SaaS",
+    "availability": "3 weeks",
+    "compensation_expectation": "$176,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Ella Morris is a Senior Backend Engineer based in Remote - US with 7 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kubernetes. Nice-to-have exposure includes Kafka, Terraform, SRE. Experience spans Healthtech, SaaS. Senior backend engineer recognized for reliability improvements and scalable service design. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/ella-morris",
+    "github_url": "https://github.com/ellamorris"
+  },
+  {
+    "id": "C022",
+    "name": "Michael Bell",
+    "current_title": "Software Engineer",
+    "years_experience": 4,
+    "location": "Nashville, TN",
+    "work_mode_preference": "onsite",
+    "skills": [
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "AWS",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "summary": "Backend-focused software engineer with startup experience and strong execution pace.",
+    "domain_experience": "Retail tech",
+    "availability": "Immediate",
+    "compensation_expectation": "$124,000",
+    "engagement_persona": "remote_only",
+    "resume_text": "Michael Bell is a Software Engineer based in Nashville, TN with 4 years of experience. Core skills include Python, Flask, PostgreSQL, AWS, Docker. Nice-to-have exposure includes FastAPI, Distributed Systems, CI/CD. Experience spans Retail tech. Backend-focused software engineer with startup experience and strong execution pace. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/michael-bell",
+    "github_url": "https://github.com/michaelbell"
+  },
+  {
+    "id": "C023",
+    "name": "Grace Parker",
+    "current_title": "Staff Software Engineer",
+    "years_experience": 13,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "nice_to_have_skills": [
+      "Leadership",
+      "Architecture",
+      "Mentoring"
+    ],
+    "summary": "Staff engineer shaping backend architecture, service contracts, and operational excellence.",
+    "domain_experience": "Developer tools, fintech",
+    "availability": "1 month",
+    "compensation_expectation": "$235,000",
+    "engagement_persona": "passive_but_open",
+    "resume_text": "Grace Parker is a Staff Software Engineer based in Remote - US with 13 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Kubernetes, Terraform. Nice-to-have exposure includes Leadership, Architecture, Mentoring. Experience spans Developer tools, fintech. Staff engineer shaping backend architecture, service contracts, and operational excellence. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/grace-parker",
+    "github_url": "https://github.com/graceparker"
+  },
+  {
+    "id": "C024",
+    "name": "Logan Hughes",
+    "current_title": "Backend Engineer",
+    "years_experience": 5,
+    "location": "Austin, TX",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "CI/CD"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "Kafka",
+      "Terraform"
+    ],
+    "summary": "Backend engineer with strong execution on API development, testing, and cloud deployment.",
+    "domain_experience": "Martech, SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$140,000",
+    "engagement_persona": "fast_responder",
+    "resume_text": "Logan Hughes is a Backend Engineer based in Austin, TX with 5 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Docker, CI/CD. Nice-to-have exposure includes Distributed Systems, Kafka, Terraform. Experience spans Martech, SaaS. Backend engineer with strong execution on API development, testing, and cloud deployment. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/logan-hughes",
+    "github_url": "https://github.com/loganhughes"
+  },
+  {
+    "id": "C025",
+    "name": "Chloe Foster",
+    "current_title": "Senior Engineer",
+    "years_experience": 9,
+    "location": "Remote - UK",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Kubernetes",
+      "Leadership"
+    ],
+    "summary": "Distributed backend systems engineer with strong product delivery experience in remote-first teams.",
+    "domain_experience": "Fintech, SaaS",
+    "availability": "1 month",
+    "compensation_expectation": "$165,000",
+    "engagement_persona": "remote_only",
+    "resume_text": "Chloe Foster is a Senior Engineer based in Remote - UK with 9 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka. Nice-to-have exposure includes Terraform, Kubernetes, Leadership. Experience spans Fintech, SaaS. Distributed backend systems engineer with strong product delivery experience in remote-first teams. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/chloe-foster",
+    "github_url": "https://github.com/chloefoster"
+  },
+  {
+    "id": "C026",
+    "name": "Sebastian Cox",
+    "current_title": "Backend Engineer",
+    "years_experience": 6,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Go",
+      "Python",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "summary": "Polyglot backend engineer who enjoys scalable services, event-driven systems, and API performance.",
+    "domain_experience": "Cloud, SaaS",
+    "availability": "2 weeks",
+    "compensation_expectation": "$162,000",
+    "engagement_persona": "mission_driven",
+    "resume_text": "Sebastian Cox is a Backend Engineer based in Remote - US with 6 years of experience. Core skills include Go, Python, PostgreSQL, AWS, Distributed Systems, Kafka. Nice-to-have exposure includes FastAPI, Kubernetes, Terraform. Experience spans Cloud, SaaS. Polyglot backend engineer who enjoys scalable services, event-driven systems, and API performance. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/sebastian-cox",
+    "github_url": "https://github.com/sebastiancox"
+  },
+  {
+    "id": "C027",
+    "name": "Zoe Bennett",
+    "current_title": "Machine Learning Engineer",
+    "years_experience": 6,
+    "location": "San Diego, CA",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "MLOps",
+      "APIs"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "PostgreSQL",
+      "Distributed Systems"
+    ],
+    "summary": "ML engineer with backend deployment experience and strong Python production engineering habits.",
+    "domain_experience": "AI, healthtech",
+    "availability": "Immediate",
+    "compensation_expectation": "$165,000",
+    "engagement_persona": "skeptical",
+    "resume_text": "Zoe Bennett is a Machine Learning Engineer based in San Diego, CA with 6 years of experience. Core skills include Python, AWS, Docker, MLOps, APIs. Nice-to-have exposure includes FastAPI, PostgreSQL, Distributed Systems. Experience spans AI, healthtech. ML engineer with backend deployment experience and strong Python production engineering habits. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/zoe-bennett",
+    "github_url": "https://github.com/zoebennett"
+  },
+  {
+    "id": "C028",
+    "name": "Jack Hughes",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 8,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Terraform"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "Redis",
+      "Mentoring"
+    ],
+    "summary": "Backend engineer for high-throughput systems, async workflows, and reliable cloud infrastructure.",
+    "domain_experience": "Fintech, payments",
+    "availability": "Immediate",
+    "compensation_expectation": "$180,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Jack Hughes is a Senior Backend Engineer based in Remote - US with 8 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Terraform. Nice-to-have exposure includes Kubernetes, Redis, Mentoring. Experience spans Fintech, payments. Backend engineer for high-throughput systems, async workflows, and reliable cloud infrastructure. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/jack-hughes",
+    "github_url": "https://github.com/jackhughes"
+  },
+  {
+    "id": "C029",
+    "name": "Lily Ramirez",
+    "current_title": "Backend Engineer",
+    "years_experience": 3,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Docker",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "summary": "Growth-stage startup engineer owning internal APIs and backend integrations.",
+    "domain_experience": "E-commerce",
+    "availability": "Immediate",
+    "compensation_expectation": "$122,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Lily Ramirez is a Backend Engineer based in Remote - US with 3 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS. Nice-to-have exposure includes Docker, Distributed Systems, CI/CD. Experience spans E-commerce. Growth-stage startup engineer owning internal APIs and backend integrations. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/lily-ramirez",
+    "github_url": "https://github.com/lilyramirez"
+  },
+  {
+    "id": "C030",
+    "name": "Owen Peterson",
+    "current_title": "Site Reliability Engineer",
+    "years_experience": 8,
+    "location": "Boise, ID",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Distributed Systems",
+      "Observability"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "PostgreSQL",
+      "Kafka"
+    ],
+    "summary": "SRE with strong backend automation experience and cloud-scale systems thinking.",
+    "domain_experience": "Cloud infrastructure",
+    "availability": "1 month",
+    "compensation_expectation": "$188,000",
+    "engagement_persona": "passive_but_open",
+    "resume_text": "Owen Peterson is a Site Reliability Engineer based in Boise, ID with 8 years of experience. Core skills include Python, AWS, Kubernetes, Terraform, Distributed Systems, Observability. Nice-to-have exposure includes FastAPI, PostgreSQL, Kafka. Experience spans Cloud infrastructure. SRE with strong backend automation experience and cloud-scale systems thinking. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/owen-peterson",
+    "github_url": "https://github.com/owenpeterson"
+  },
+  {
+    "id": "C031",
+    "name": "Scarlett Bailey",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 7,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Docker",
+      "Mentoring"
+    ],
+    "summary": "Built highly available backend services and owns service quality from design through incident response.",
+    "domain_experience": "Fintech, e-commerce",
+    "availability": "Immediate",
+    "compensation_expectation": "$174,000",
+    "engagement_persona": "fast_responder",
+    "resume_text": "Scarlett Bailey is a Senior Backend Engineer based in Remote - US with 7 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka. Nice-to-have exposure includes Terraform, Docker, Mentoring. Experience spans Fintech, e-commerce. Built highly available backend services and owns service quality from design through incident response. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/scarlett-bailey",
+    "github_url": "https://github.com/scarlettbailey"
+  },
+  {
+    "id": "C032",
+    "name": "Gabriel Murphy",
+    "current_title": "Backend Engineer",
+    "years_experience": 5,
+    "location": "Philadelphia, PA",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Docker",
+      "Kubernetes"
+    ],
+    "summary": "Backend engineer experienced in async jobs, relational data models, and application scaling.",
+    "domain_experience": "Logistics, SaaS",
+    "availability": "2 weeks",
+    "compensation_expectation": "$150,000",
+    "engagement_persona": "slow_responder",
+    "resume_text": "Gabriel Murphy is a Backend Engineer based in Philadelphia, PA with 5 years of experience. Core skills include Python, Django, PostgreSQL, AWS, Distributed Systems. Nice-to-have exposure includes FastAPI, Docker, Kubernetes. Experience spans Logistics, SaaS. Backend engineer experienced in async jobs, relational data models, and application scaling. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/gabriel-murphy",
+    "github_url": "https://github.com/gabrielmurphy"
+  },
+  {
+    "id": "C033",
+    "name": "Victoria Ward",
+    "current_title": "Principal Backend Architect",
+    "years_experience": 15,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Kubernetes",
+      "Leadership"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Architecture",
+      "Mentoring"
+    ],
+    "summary": "Principal-level architect for distributed platforms and backend modernization programs.",
+    "domain_experience": "Fintech, healthtech",
+    "availability": "3 months",
+    "compensation_expectation": "$280,000",
+    "engagement_persona": "compensation_driven",
+    "resume_text": "Victoria Ward is a Principal Backend Architect based in Remote - US with 15 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Kubernetes, Leadership. Nice-to-have exposure includes Terraform, Architecture, Mentoring. Experience spans Fintech, healthtech. Principal-level architect for distributed platforms and backend modernization programs. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/victoria-ward",
+    "github_url": "https://github.com/victoriaward"
+  },
+  {
+    "id": "C034",
+    "name": "Julian Torres",
+    "current_title": "Software Engineer",
+    "years_experience": 4,
+    "location": "Remote - Mexico",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "summary": "Backend engineer delivering API services and cloud infrastructure support in distributed teams.",
+    "domain_experience": "SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$110,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Julian Torres is a Software Engineer based in Remote - Mexico with 4 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Docker. Nice-to-have exposure includes Distributed Systems, Kubernetes, CI/CD. Experience spans SaaS. Backend engineer delivering API services and cloud infrastructure support in distributed teams. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/julian-torres",
+    "github_url": "https://github.com/juliantorres"
+  },
+  {
+    "id": "C035",
+    "name": "Nora Bailey",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 8,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Redis",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "summary": "Backend engineer with strengths in systems reliability, developer experience, and API scalability.",
+    "domain_experience": "Healthtech, SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$171,000",
+    "engagement_persona": "mission_driven",
+    "resume_text": "Nora Bailey is a Senior Backend Engineer based in Remote - US with 8 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Redis, Docker. Nice-to-have exposure includes Kafka, Terraform, Kubernetes. Experience spans Healthtech, SaaS. Backend engineer with strengths in systems reliability, developer experience, and API scalability. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/nora-bailey",
+    "github_url": "https://github.com/norabailey"
+  },
+  {
+    "id": "C036",
+    "name": "David Ross",
+    "current_title": "Backend Engineer",
+    "years_experience": 6,
+    "location": "Detroit, MI",
+    "work_mode_preference": "onsite",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems"
+    ],
+    "nice_to_have_skills": [
+      "Docker",
+      "Kafka",
+      "CI/CD"
+    ],
+    "summary": "Backend engineer for industrial software, with strong API ownership and production debugging skills.",
+    "domain_experience": "Manufacturing tech",
+    "availability": "1 month",
+    "compensation_expectation": "$146,000",
+    "engagement_persona": "not_interested",
+    "resume_text": "David Ross is a Backend Engineer based in Detroit, MI with 6 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems. Nice-to-have exposure includes Docker, Kafka, CI/CD. Experience spans Manufacturing tech. Backend engineer for industrial software, with strong API ownership and production debugging skills. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/david-ross",
+    "github_url": "https://github.com/davidross"
+  },
+  {
+    "id": "C037",
+    "name": "Penelope Long",
+    "current_title": "Senior Software Engineer",
+    "years_experience": 9,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Terraform"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Kubernetes",
+      "Leadership"
+    ],
+    "summary": "Product-minded backend engineer balancing delivery speed with architecture and operational quality.",
+    "domain_experience": "Fintech, martech",
+    "availability": "2 weeks",
+    "compensation_expectation": "$183,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Penelope Long is a Senior Software Engineer based in Remote - US with 9 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Terraform. Nice-to-have exposure includes Kafka, Kubernetes, Leadership. Experience spans Fintech, martech. Product-minded backend engineer balancing delivery speed with architecture and operational quality. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/penelope-long",
+    "github_url": "https://github.com/penelopelong"
+  },
+  {
+    "id": "C038",
+    "name": "Samuel Jenkins",
+    "current_title": "Backend Engineer",
+    "years_experience": 5,
+    "location": "Columbus, OH",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "Terraform",
+      "Redis"
+    ],
+    "summary": "Backend engineer with strong practical delivery experience on APIs and cloud-hosted services.",
+    "domain_experience": "Insurance tech",
+    "availability": "Immediate",
+    "compensation_expectation": "$144,000",
+    "engagement_persona": "passive_but_open",
+    "resume_text": "Samuel Jenkins is a Backend Engineer based in Columbus, OH with 5 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Docker. Nice-to-have exposure includes Distributed Systems, Terraform, Redis. Experience spans Insurance tech. Backend engineer with strong practical delivery experience on APIs and cloud-hosted services. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/samuel-jenkins",
+    "github_url": "https://github.com/samueljenkins"
+  },
+  {
+    "id": "C039",
+    "name": "Aria Collins",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 7,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Kubernetes"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "SRE",
+      "Mentoring"
+    ],
+    "summary": "Senior engineer for cloud-native backend services with strong incident ownership and scaling work.",
+    "domain_experience": "Healthtech, developer tools",
+    "availability": "Immediate",
+    "compensation_expectation": "$179,000",
+    "engagement_persona": "remote_only",
+    "resume_text": "Aria Collins is a Senior Backend Engineer based in Remote - US with 7 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Kubernetes. Nice-to-have exposure includes Terraform, SRE, Mentoring. Experience spans Healthtech, developer tools. Senior engineer for cloud-native backend services with strong incident ownership and scaling work. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/aria-collins",
+    "github_url": "https://github.com/ariacollins"
+  },
+  {
+    "id": "C040",
+    "name": "Joseph White",
+    "current_title": "Software Engineer",
+    "years_experience": 3,
+    "location": "Charlotte, NC",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "FastAPI",
+      "Docker",
+      "CI/CD"
+    ],
+    "summary": "Early-career engineer growing into backend ownership for customer and admin workflows.",
+    "domain_experience": "SaaS",
+    "availability": "Immediate",
+    "compensation_expectation": "$116,000",
+    "engagement_persona": "skeptical",
+    "resume_text": "Joseph White is a Software Engineer based in Charlotte, NC with 3 years of experience. Core skills include Python, Flask, PostgreSQL, AWS. Nice-to-have exposure includes FastAPI, Docker, CI/CD. Experience spans SaaS. Early-career engineer growing into backend ownership for customer and admin workflows. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/joseph-white",
+    "github_url": "https://github.com/josephwhite"
+  },
+  {
+    "id": "C041",
+    "name": "Layla Perry",
+    "current_title": "Backend Engineer",
+    "years_experience": 6,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Data Modeling",
+      "Docker"
+    ],
+    "summary": "Backend engineer experienced in event-driven APIs and highly collaborative product delivery.",
+    "domain_experience": "Fintech, travel",
+    "availability": "2 weeks",
+    "compensation_expectation": "$158,000",
+    "engagement_persona": "fast_responder",
+    "resume_text": "Layla Perry is a Backend Engineer based in Remote - US with 6 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka. Nice-to-have exposure includes Terraform, Data Modeling, Docker. Experience spans Fintech, travel. Backend engineer experienced in event-driven APIs and highly collaborative product delivery. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/layla-perry",
+    "github_url": "https://github.com/laylaperry"
+  },
+  {
+    "id": "C042",
+    "name": "Matthew Butler",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 8,
+    "location": "New York, NY",
+    "work_mode_preference": "hybrid",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Distributed Systems",
+      "Kafka",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "Kubernetes",
+      "Leadership"
+    ],
+    "summary": "Senior backend engineer scaling payment-adjacent systems and data-heavy APIs.",
+    "domain_experience": "Fintech, adtech",
+    "availability": "1 month",
+    "compensation_expectation": "$184,000",
+    "engagement_persona": "compensation_driven",
+    "resume_text": "Matthew Butler is a Senior Backend Engineer based in New York, NY with 8 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Distributed Systems, Kafka, Docker. Nice-to-have exposure includes Terraform, Kubernetes, Leadership. Experience spans Fintech, adtech. Senior backend engineer scaling payment-adjacent systems and data-heavy APIs. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/matthew-butler",
+    "github_url": "https://github.com/matthewbutler"
+  },
+  {
+    "id": "C043",
+    "name": "Camila Brooks",
+    "current_title": "Backend Engineer",
+    "years_experience": 5,
+    "location": "Remote - US",
+    "work_mode_preference": "remote",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "CI/CD"
+    ],
+    "nice_to_have_skills": [
+      "Distributed Systems",
+      "Redis",
+      "Terraform"
+    ],
+    "summary": "Backend engineer focused on API quality, backend automation, and shipping in remote product teams.",
+    "domain_experience": "SaaS, edtech",
+    "availability": "Immediate",
+    "compensation_expectation": "$143,000",
+    "engagement_persona": "actively_looking",
+    "resume_text": "Camila Brooks is a Backend Engineer based in Remote - US with 5 years of experience. Core skills include Python, FastAPI, PostgreSQL, AWS, Docker, CI/CD. Nice-to-have exposure includes Distributed Systems, Redis, Terraform. Experience spans SaaS, edtech. Backend engineer focused on API quality, backend automation, and shipping in remote product teams. Delivered production systems using Python services, relational databases, cloud infrastructure, and collaborative engineering practices.",
+    "linkedin_url": "https://linkedin.com/in/camila-brooks",
+    "github_url": "https://github.com/camilabrooks"
+  }
+]

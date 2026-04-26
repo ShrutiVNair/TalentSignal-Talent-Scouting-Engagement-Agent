@@ -1,0 +1,25 @@
+Senior Backend Engineer
+
+We are hiring a Senior Backend Engineer to build and scale core platform services for our SaaS product.
+
+Requirements:
+- 5+ years of backend engineering experience
+- Strong Python and FastAPI experience
+- Deep knowledge of PostgreSQL
+- Hands-on AWS experience
+- Experience designing distributed systems and resilient APIs
+- Comfortable working in a remote-friendly team
+
+Nice to have:
+- Kafka
+- Terraform
+- Kubernetes
+
+Responsibilities:
+- Design and ship backend services used by enterprise customers
+- Improve system reliability, scalability, and developer velocity
+- Collaborate with product, data, and infrastructure teams
+- Mentor other engineers and support architecture decisions
+
+Location preference: United States or Canada
+Work mode: Remote-friendly
